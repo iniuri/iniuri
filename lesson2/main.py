@@ -12,4 +12,3 @@ print(f'class: {clas}')
 print(f'music type: {music}')
 print(f'--------------------------------------')
 # $$$ ez money $$$
-# laughin' to the bank
