@@ -23,3 +23,7 @@ print(Back.YELLOW + "TEST $$$!")
 # -------------------
 #Resets all style
 print(Style.RESET_ALL)
+# --------------------------------------------------------------------------------------------------------------------------------------
+# IN TOTAL:
+#   Colorama is a plugin (Package) that is color plugin, this plugin allows you to change text colors
+#   Colorama is not easy to Learn, but not hard
